@@ -6,6 +6,13 @@ __pycache__/
 # C extensions
 *.so
 
+
+# NOVO 
+.virtual_documents/
+
+
+
+
 # Distribution / packaging
 .Python
 build/
