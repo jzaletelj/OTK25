@@ -10,7 +10,7 @@ __pycache__/
 # NOVO 
 .virtual_documents/
 .jupyter
-
+_dev
 
 
 # Distribution / packaging
