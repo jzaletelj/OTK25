@@ -1,0 +1,1 @@
+{"w_ts_acc": 30, "w_ts_ecg": 30, "w_ts_bvp": 30, "w_ts_temp": 30, "window_shift_ts": 10, "f_chest": 700, "f_w_acc": 32, "f_w_eda": 4, "f_w_temp": 4, "f_w_bvp": 64}
